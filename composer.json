@@ -1,0 +1,7 @@
+{
+    "name": "demo/laravel-blog-demo",
+    "description": "Professional lightweight Laravel blog demo project",
+    "require": {
+        "php": ">=8.1"
+    }
+}
