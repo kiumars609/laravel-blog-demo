@@ -13,8 +13,8 @@
 ## How to use
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/<repo>.git
-cd <repo>
+git clone https://github.com/kiumars609/laravel-blog-demo.git
+cd laravel-blog-demo
 ```
 2. Install dependencies:
 ```bash
